@@ -1,6 +1,8 @@
 # Wordbox-Solver
 Wordbox Solver est un programme permettant de jouer automatiquement au jeu WordBox de Plato.
+
 ⚠️ Ne fonctionne que sur ordinateur
+
 J'utilise google play jeux sur windows 11, mais ça devrait marcher sur n'importe quel émulateur.
 
 # Comment utiliser
