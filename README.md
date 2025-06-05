@@ -11,8 +11,11 @@ Lancer le fichier bbox.py pour récupérer les coordonnées de la boite de jeu.
 C'est l'endroit ou le programme regardera, il ne faudra donc plus bouger la fenêtre pendant le jeu.
 
 Modifier les valeurs dans manager.py : 
+
 `GRID_SIZE = 4` -> Taille de la grille (seulement 4x4 et 5x5 sont supportés)
+
 `MIN_WORD_LENGTH = 4` -> Longueur minimale des mots recherchés, WordBox ne supporte que 3 ou 4 mais mots2.txt est fourni en cas de besoin donc mettre "2" est techniquement possible
+
 `BBOX = (704, 314, 1318, 914)` -> Coordonnées bbox données par bbox.py
 
 ## Jeu
